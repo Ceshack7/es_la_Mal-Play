@@ -1,0 +1,151 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, Sans-Serif;
+  
+}
+
+.e-1{
+  text-align: center;
+  font-size: 50px;
+  color: #888;
+}
+
+.s-1{
+  color: rgb(0, 162, 255);
+}
+
+.fondo-container{
+  display: grid;
+  background-color: rgb(255, 255, 255);
+  width: 250px;
+  border-radius: 5px;
+  height: 500px;
+  margin: auto;
+  margin-top: 30px !important;
+  box-shadow: 0px 1px 5px 1px rgba(0, 0, 0, 0.315);
+  border: 2px solid #fff;
+}
+
+.container-form{
+  margin-top: 30px;
+}
+
+#input-1{
+  border: none;
+  outline: none;
+  border-bottom: 1px solid rgb(0,162,255);
+  padding: 10px;
+  width: 200px;
+  height: 50px;
+}
+
+#input-2{
+  margin-top: 10px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid rgb(0, 162, 255);
+  padding: 10px;
+  height: 50px;
+}
+
+#input-3{
+  margin-top: 15px;
+  width: 200px;
+  padding: 7px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(0, 162, 255);
+  border: 2px solid rgb(0, 162, 255);
+}
+
+#input-3{
+  color: white;
+  font-weight: 500;
+}
+
+.e-2{
+  color: rgb(0, 162, 255);
+  font-size: 35px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.a{
+  text-align: center;
+}
+
+.a-1{
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  background-color: #069619;
+  border-radius: 5px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.container-a{
+  display: flex;
+  margin-bottom: 155px;
+}
+
+.a-2{
+  text-decoration: none;
+  margin-left: 10px;
+  color: rgb(0,162,255);
+  font-weight: 400;
+  
+}
+
+.a-2:hover{
+  border-bottom: 1px solid rgb(0,162,255);
+}
+
+footer{
+  background-color: rgba(0, 0, 0, 0.863);
+  height: 100%;
+  margin-top: 100px;
+}
+
+.fondo-footer{
+  text-align: center;
+  flex-direction: column;
+  display: flex;
+  color: rgb(255, 255, 255);
+  width: 90%;
+  flex-direction: column;
+  height: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.fondo-footer span{
+  color: rgb(0, 162, 255);
+}
+
+.span{
+  color: rgb(0, 162, 255);
+}
+
+.container-hijo{
+  margin-bottom: 100px !important;
+}
+
+.from{
+  color: grey;
+  font-size: 10px;
+}
+
+.meta{
+  color: grey;
+}
+
+.redes-sociales{
+  margin-bottom: 100px;
+  background-color: #313131;
+  border-radius: 50px;
+  padding: 7px;
+}
